@@ -84,8 +84,8 @@ My MSc dissertation — **FruitGuard AI** — achieved **96.3% classification ac
 
 | Degree | Institution | Year | Result |
 |--------|-------------|------|--------|
-| **MSc Artificial Intelligence** | Aston University, UK | 2025 – 2026 | 70.37% |
-| **BE Computer Science** | Dr. Ambedkar Institute of Technology, Bangalore | 2017 – 2021 | **9.45 / 10 CGPA** |
+| **MSc Artificial Intelligence** | Aston University, UK | 2025 – 2026 | **70.37%** |
+| **BE Computer Science** | Dr. Ambedkar Institute of Technology, Bangalore | 2017 – 2021 | **9.45/10** |
 
 ---
 
