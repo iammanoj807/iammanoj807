@@ -104,7 +104,7 @@ My MSc dissertation — **FruitGuard AI** — achieved **96.3% classification ac
   <a href="https://www.linkedin.com/in/manoj-kumar-thapa-7595a5168">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/manojthapaa">
+  <a href="https://github.com/iammanoj807">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:thapam807@gmail.com">
