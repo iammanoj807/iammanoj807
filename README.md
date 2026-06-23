@@ -10,7 +10,7 @@
 
 ---
 
-I'm a **Software Engineer** with **2 years of production experience** at **Accenture** (Java Spring Boot, REST APIs, PostgreSQL) and a **recently completed MSc in Artificial Intelligence** at Aston University (April 2026).
+I'm a **Software Engineer** with **industry experience** at **Accenture** (Java Spring Boot, REST APIs, PostgreSQL) and a **recently completed MSc in Artificial Intelligence** at Aston University (April 2026).
 
 My MSc dissertation — **FruitGuard AI** — achieved **96.3% classification accuracy** and **73 FPS real-time inference** using only 207 training images via transfer learning (YOLOv8 + ONNX). I build things that work in production, not just in notebooks.
 
