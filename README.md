@@ -1,29 +1,37 @@
-<h1 align="center">Hi, I'm Manoj Kumar Thapa</h1>
+<div align="center">
+  <h1>Hi, I'm Manoj Kumar Thapa 👋</h1>
 
-<p align="center">
-  <strong>Software Engineer &nbsp;|&nbsp; MSc Artificial Intelligence (Aston University, 2026) &nbsp;|&nbsp; UK Graduate Route Visa (2026–2028)</strong>
-</p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=AI+Software+Engineer;Backend+%26+API+Developer;Building+AI+Systems+in+Production" alt="Typing SVG" />
+  </a>
 
-<p align="center">
-  <strong>Actively seeking Software Engineering & AI roles — available immediately</strong>
-</p>
+  <p>
+    <strong>AI Software Engineer &nbsp;|&nbsp; MSc Artificial Intelligence (Aston University, 2026) &nbsp;|&nbsp; UK Graduate Route Visa (2026–2028)</strong>
+  </p>
 
----
-
-I'm a **Software Engineer** with **industry experience** at **Accenture** (Java Spring Boot, REST APIs, PostgreSQL) and a **recently completed MSc in Artificial Intelligence** at Aston University (April 2026).
-
-My MSc dissertation — **FruitGuard AI** — achieved **96.3% classification accuracy** and **73 FPS real-time inference** using only 207 training images via transfer learning (YOLOv8 + ONNX). I build things that work in production, not just in notebooks.
-
-- Building: **Agentic AI systems** and **RAG pipelines**
-- Learning: **Kafka**, **Snowflake**, **Kubernetes**
-- Based in: **Birmingham, UK**
-- Visa: **Graduate Route — no sponsorship required**
-- Contact: **thapam807@gmail.com**
-- Portfolio: **[iammanoj807.github.io/profile](https://iammanoj807.github.io/profile)**
+  <p>
+    <strong>Actively seeking Software Engineering & AI roles — available immediately</strong>
+  </p>
+</div>
 
 ---
 
-### Tech Stack
+### 👨‍💻 About Me
+
+AI Engineer with hands-on experience designing and building **backend services, APIs, and orchestration layers** that support AI and GenAI use cases, including an autonomous agent built with **LangGraph** that integrates multiple tools and data sources to solve complex tasks end to end. 
+
+Proficient in **Python and SQL**, with practical experience across LLM integration, prompt orchestration, **retrieval-augmented generation (RAG)**, and productionising AI systems from prototype through to deployed service. Strong software engineering discipline covering **clean code, automated testing, version control, and CI/CD**, with a track record of taking ambiguous problems through to practical, working solutions. Comfortable collaborating across technical and business stakeholders to ensure AI use cases are usable, reliable, and safely deployed.
+
+- 🏗️ **Building:** Agentic AI systems and RAG pipelines
+- 🚀 **Learning:** Kafka, Snowflake, Kubernetes
+- 🌍 **Based in:** Birmingham, UK
+- 🛂 **Visa:** Graduate Route (2026–2028) — no sponsorship required
+- 📧 **Contact:** thapam807@gmail.com
+- 🌐 **Portfolio:** [iammanoj807.github.io/profile](https://iammanoj807.github.io/profile)
+
+---
+
+### 🛠️ Tech Stack
 
 **Languages**
 <p>
@@ -57,21 +65,21 @@ My MSc dissertation — **FruitGuard AI** — achieved **96.3% classification ac
 
 ---
 
-### Featured Projects
+### 🚀 Featured Projects
 
 | Project | What it does | Key result | Stack |
 |---------|-------------|------------|-------|
-| **[FruitGuard AI](https://huggingface.co/spaces/manojthapaa/fruit-guard-ai)** ⭐ MSc Dissertation | Transfer learning pipeline for real-time fruit detection | **96.3% accuracy, 73 FPS, 95% less data** | Python, YOLOv8, ONNX, PyTorch |
 | **[Planck AI](https://huggingface.co/spaces/manojthapaa/planck-ai)** | Agentic AI with 5 tool integrations and asyncio parallelism | Multi-step queries end-to-end | Python, LangGraph, FastAPI, React |
-| **[CogniGraph](https://huggingface.co/spaces/manojthapaa/CogniGraph)** | RAG document explorer building interactive knowledge graphs | ChromaDB-grounded LLM responses | Python, ChromaDB, RAG, NetworkX |
 | **[NeuroArc](https://huggingface.co/spaces/manojthapaa/NeuroArc)** | CV-to-job-description AI matching tool | Schema validation + structured LLM output | Python, FastAPI, React, OpenAI API |
+| **[FruitGuard AI](https://huggingface.co/spaces/manojthapaa/fruit-guard-ai)** ⭐ MSc Dissertation | Transfer learning pipeline for real-time fruit detection | **96.3% accuracy, 73 FPS, 95% less data** | Python, YOLOv8, ONNX, PyTorch |
+| **[CogniGraph](https://huggingface.co/spaces/manojthapaa/CogniGraph)** | RAG document explorer building interactive knowledge graphs | ChromaDB-grounded LLM responses | Python, ChromaDB, RAG, NetworkX |
 | **[Full-Stack E-Commerce](https://novela-app.onrender.com)** | Production e-commerce with ACID transactions and CI/CD | Row-level locking, Docker Compose, GitHub Actions | Java, Spring Boot, React, PostgreSQL |
 
 ---
 
-### Work Experience
+### 💼 Work Experience
 
-**Software Engineer — Accenture** *(Oct 2021 – Oct 2023, Bangalore)*
+**Software Engineer — Accenture** *(Oct 2021 – May 2022, Bangalore)*
 
 - Built production features in **Java Spring Boot** and **React** for a large-scale enterprise application in a team of 6 engineers
 - Reduced **API response time by ~40%** through SQL query optimisation and N+1 elimination
@@ -80,16 +88,16 @@ My MSc dissertation — **FruitGuard AI** — achieved **96.3% classification ac
 
 ---
 
-### Education
+### 🎓 Education
 
 | Degree | Institution | Year | Result |
 |--------|-------------|------|--------|
-| **MSc Artificial Intelligence** | Aston University, UK | 2025 – 2026 | **70.37%** |
-| **BE Computer Science** | Dr. Ambedkar Institute of Technology, Bangalore | 2017 – 2021 | **9.45/10** |
+| **MSc Artificial Intelligence** | Aston University, UK | Jan 2025 – Jul 2026 | **70.37%** |
+| **BE Computer Science** | Dr. Ambedkar Institute of Technology, Bangalore | Aug 2017 – Sep 2021 | **9.45/10** |
 
 ---
 
-### Certifications
+### 🏆 Certifications
 
 - [5-Day AI Agents Intensive with Google](https://www.kaggle.com/certification/badges/manojkumarthapa/105) — Kaggle
 - [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/certificate/W29WV2DFL476) — Stanford / Coursera
@@ -98,9 +106,10 @@ My MSc dissertation — **FruitGuard AI** — achieved **96.3% classification ac
 
 ---
 
-### Connect
 
-<p align="center">
+### 🤝 Connect
+
+<div align="center">
   <a href="https://www.linkedin.com/in/manoj-kumar-thapa-7595a5168">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -113,4 +122,4 @@ My MSc dissertation — **FruitGuard AI** — achieved **96.3% classification ac
   <a href="https://iammanoj807.github.io/profile">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-</p>
+</div>
