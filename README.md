@@ -15,6 +15,7 @@
 
   <p>
     <a href="https://iammanoj807.github.io/profile"><img src="https://img.shields.io/badge/Portfolio-3EE0FF?style=for-the-badge&logo=react&logoColor=black" /></a>
+    <a href="https://hamropedia.com"><img src="https://img.shields.io/badge/Blog-Hamropedia-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
     <a href="https://iammanoj807.github.io/profile/CV.pdf"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/manoj-kumar-thapa-7595a5168"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:thapam807@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -43,6 +44,14 @@ AI Software Engineer with an MSc in Artificial Intelligence from Aston Universit
 | **Planck AI**<br>Agentic research assistant | LLM agent built without an agent framework: 4 tools (web search, code execution in 7 languages, PDF/URL reading, image analysis), up to 8 planning steps, mid-run failover across Groq, Gemini and NVIDIA | **30/30** tasks under fault injection · **80%** correct tool selection · **2.7 s** median latency · no incorrect answer among the **20** tasks the rubric could grade | Python, FastAPI, React, Docker | [Code](https://github.com/iammanoj807/planck-ai) · [Demo](https://huggingface.co/spaces/manojthapaa/planck-ai) |
 | **CogniGraph**<br>Graph RAG explorer | Turns documents, including scanned PDFs via OCR, into an interactive 3D knowledge graph and answers only from retrieved passages | found my own test set inflated hit@1 by **35 points**, rebuilt it, then measured **95% hit@3** against **80%** for a keyword baseline · diagnosed silent embedding truncation at **~1,400 chars** | Python, ChromaDB, NetworkX, OCR | [Code](https://github.com/iammanoj807/CogniGraph) · [Demo](https://huggingface.co/spaces/manojthapaa/CogniGraph) |
 | **NeuroArc**<br>AI job application assistant | Parses CVs (PDF/DOCX, OCR fallback), pulls live UK jobs from the Reed API, scores fit and exports a tailored CV | The model returns requirement–evidence pairs and code drops any requirement whose quoted phrase is not in the CV, so it cannot supply its own proof. A known limit remains, documented in the repo | FastAPI, React, Groq API, OCR | [Code](https://github.com/iammanoj807/NeuroArc) · [Demo](https://huggingface.co/spaces/manojthapaa/NeuroArc) |
+
+---
+
+### 🌐 Sites I build and run
+
+- **[Hamropedia](https://hamropedia.com)**: free guides for Nepali students (NOC, WES, UK student and Graduate visas), Nepali tools such as the [Preeti to Unicode converter](https://hamropedia.com/tools/preeti-to-unicode/) and [Nepali typing](https://hamropedia.com/tools/english-to-nepali/), and free courses in [AI engineering](https://hamropedia.com/ai-roadmap/), [SQL](https://hamropedia.com/sql/), [system design](https://hamropedia.com/system-design/) and [DSA](https://hamropedia.com/dsa/). A hand-written static site generator in Node.js.
+- **[Hamropedia Digital](https://digital.hamropedia.com)**: fixed-price websites and practical AI tools for small UK businesses.
+- **[nepali-unicode-tools](https://github.com/iammanoj807/nepali-unicode-tools)**: open-source JavaScript for Preeti ↔ Unicode and Romanized Nepali, the same code that runs the Hamropedia tools.
 
 ---
 
